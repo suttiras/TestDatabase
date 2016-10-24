@@ -1,0 +1,9 @@
+C:\Users\Sandra\Documents\Visual Studio 2013\Projects\TestDatabase\TestDatabase\bin\Debug\TestDatabase.exe.config
+C:\Users\Sandra\Documents\Visual Studio 2013\Projects\TestDatabase\TestDatabase\bin\Debug\TestDatabase.exe
+C:\Users\Sandra\Documents\Visual Studio 2013\Projects\TestDatabase\TestDatabase\bin\Debug\TestDatabase.pdb
+C:\Users\Sandra\Documents\Visual Studio 2013\Projects\TestDatabase\TestDatabase\obj\Debug\TestDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Sandra\Documents\Visual Studio 2013\Projects\TestDatabase\TestDatabase\obj\Debug\TestDatabase.FormAddRecord.resources
+C:\Users\Sandra\Documents\Visual Studio 2013\Projects\TestDatabase\TestDatabase\obj\Debug\TestDatabase.Properties.Resources.resources
+C:\Users\Sandra\Documents\Visual Studio 2013\Projects\TestDatabase\TestDatabase\obj\Debug\TestDatabase.csproj.GenerateResource.Cache
+C:\Users\Sandra\Documents\Visual Studio 2013\Projects\TestDatabase\TestDatabase\obj\Debug\TestDatabase.exe
+C:\Users\Sandra\Documents\Visual Studio 2013\Projects\TestDatabase\TestDatabase\obj\Debug\TestDatabase.pdb
