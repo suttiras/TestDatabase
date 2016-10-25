@@ -1,0 +1,8 @@
+C:\Users\Sandra\Documents\Visual Studio 2013\Projects\TestDatabase\FormDisplayData3\bin\Debug\FormDisplayData3.exe.config
+C:\Users\Sandra\Documents\Visual Studio 2013\Projects\TestDatabase\FormDisplayData3\bin\Debug\FormDisplayData3.exe
+C:\Users\Sandra\Documents\Visual Studio 2013\Projects\TestDatabase\FormDisplayData3\bin\Debug\FormDisplayData3.pdb
+C:\Users\Sandra\Documents\Visual Studio 2013\Projects\TestDatabase\FormDisplayData3\obj\Debug\FormDisplayData3.FormDisplayData.resources
+C:\Users\Sandra\Documents\Visual Studio 2013\Projects\TestDatabase\FormDisplayData3\obj\Debug\FormDisplayData3.Properties.Resources.resources
+C:\Users\Sandra\Documents\Visual Studio 2013\Projects\TestDatabase\FormDisplayData3\obj\Debug\FormDisplayData3.csproj.GenerateResource.Cache
+C:\Users\Sandra\Documents\Visual Studio 2013\Projects\TestDatabase\FormDisplayData3\obj\Debug\FormDisplayData3.exe
+C:\Users\Sandra\Documents\Visual Studio 2013\Projects\TestDatabase\FormDisplayData3\obj\Debug\FormDisplayData3.pdb
